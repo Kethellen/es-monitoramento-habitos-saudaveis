@@ -49,7 +49,7 @@ A aplicação contará com:
 
 | Camada         | Tecnologia            |
 | -------------- | --------------------- |
-| Backend        | Java + Spring Boot    |
+| Backend        | Java                  |
 | Frontend       | HTML, CSS, JavaScript |
 | Banco de Dados | PostgreSQL / MySQL    |
 | Versionamento  | Git e GitHub          |
@@ -118,7 +118,11 @@ projeto-ods-saude/
 
 ## 📊 Gerenciamento do Projeto
 
-O projeto será gerenciado utilizando **Scrum**, com sprints quinzenais.
+O projeto será gerenciado utilizando **Scrum**, , com organização das tarefas no GitHub Projects:
+
+- Backlog do produto definido
+- Planejamento por sprints
+- Controle de progresso via Kanban.
 
 As tarefas estão organizadas no **GitHub Projects**, com as seguintes colunas:
 
