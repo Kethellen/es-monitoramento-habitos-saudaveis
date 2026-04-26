@@ -104,6 +104,9 @@ projeto-ods-saude/
 │
 ├── README.md
 ├── docs/
+|   ├── diagramas/
+|       ├── diagrama-c4.png
+|   ├── arquitetura.md
 │   ├── requisitos.md
 │   ├── casos-de-uso.md
 │
@@ -130,6 +133,9 @@ As tarefas estão organizadas no **GitHub Projects**, com as seguintes colunas:
 * 🚀 TODO (próximo sprint)
 * 🔧 In Progress
 * ✅ Done
+
+O acompanhamento pode ser acessado em:
+👉 https://github.com/Kethellen/es-monitoramento-habitos-saudaveis/projects
 
 ---
 
