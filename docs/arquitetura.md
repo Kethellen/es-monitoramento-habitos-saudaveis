@@ -82,6 +82,8 @@ Neste nível, o sistema é dividido em seus principais componentes internos.
 * **Banco de Dados**
   Responsável pelo armazenamento dos dados
 
+
+![Diagrama de Contexto](diagramas/diagrama-c4.png)
 ---
 
 ## 🎯 5. Justificativa da Arquitetura
